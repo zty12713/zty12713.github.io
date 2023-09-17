@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tianyang Zhao"
-  avatar           : "profile.png"
+  avatar           : "TianyangZhao-3.jpg"
   bio              : "Informatics Ph.D. Candidate at Penn State University, College of Information Sciences and Technology"
   location         : "University Park, PA"
   employer         :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/tianyang-zhao-4b0a49158/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "tianyang-zhao-4b0a49158"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
