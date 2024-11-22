@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a second-year Ph.D. student in [College of Information Sciences and Technology](https://ist.psu.edu/) at Pennsylvania State University. I mostly participate in research related to natural language processing. Specifically, I have experience in question answering, machine translation, and dialogue state tracking. My other research interests include machine learning, artificial intelligence, privacy, and data science.
+I am a third-year Ph.D. student in [College of Information Sciences and Technology](https://ist.psu.edu/) at Pennsylvania State University. I mostly participate in research related to natural language processing. Specifically, I have experience in question answering, machine translation, and dialogue state tracking. My other research interests include machine learning, artificial intelligence, privacy, and data science.
 
 I am currently a research assistant in the Human Language Technologies Lab led by [Dr. Shomir Wilson](https://shomir.net/). My research aims to make privacy policies more approachable to the general public. I am working on automatically collecting question-answer pairs from privacy policies and publishing the largest privacy question-answering corpus to date.
 
