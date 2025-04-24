@@ -18,6 +18,10 @@ I received my M.S. in [Computer Science and Engineering](https://www.eecs.psu.ed
 
 ## News
 
+<b>April 2025:</b> I attended **MASC-SLL** 2025 at Penn State and presented the work *Questioning Privacy: Contrasting User Questions with Questions Answered by Privacy Policies* in a poster session.
+
+<b>January 2025:</b> I attended **Dagstuhl Seminar** *Grand Challenges for Research on Privacy Documents* at Wadern, Germany. I learned a lot about what's new in research on privacy documents and the essential problems to work on next.
+
 <b>May 2023:</b> I passed my qualifying exam! I finished the first milestone of my Ph.D. program.
 
 <b>November 2020:</b> Saptarashmi Bandyopadhyay and I presented our paper *Natural Language Response Generation from SQL with Generalization and Back-translation* at the **EMNLP** 2020 Virtual Conference, Workshop on Interactive and Executable Semantic Parsing. Here is the [recording](https://slideslive.com/38939458/generalization-and-backtranslation-in-response-generation-from-sql).
