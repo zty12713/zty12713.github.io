@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-[Datasets, automation, and analysis methods](https://doi.org/10.4230/DagRep.15.1.1)<br>
+[Datasets, automation, and analysis methods](https://drops.dagstuhl.de/storage/04dagstuhl-reports/volume15/issue01/25021/DagRep.15.1.1/DagRep.15.1.1.pdf)<br>
 Peter Story, Sepideh Ghanavati, Henry Hosseini, Jelena Mitrovic, Tim Samples, Isabel Wagner, <b>Tianyang Zhao</b><br>
 Grand challenges for research on privacy documents (Dagstuhl Seminar 25021) (pp. 11–16). Dagstuhl Reports, 15(1), 1–32. 2025<br>
 
