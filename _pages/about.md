@@ -10,13 +10,15 @@ redirect_from:
 
 {% include base_path %}
 
-I am a fourth-year Ph.D. student in [College of Information Sciences and Technology](https://ist.psu.edu/) at Pennsylvania State University. I mostly participate in research related to natural language processing. Specifically, I have experience in RAG systems, question answering, machine translation, and dialogue state tracking. My other research interests include machine learning, artificial intelligence, and data mining.
+I am an M.S. student in [College of Information Sciences and Technology](https://ist.psu.edu/) at Pennsylvania State University. I mostly participate in research related to natural language processing. Specifically, I have experience in RAG systems, question answering, machine translation, and dialogue state tracking. My other research interests include machine learning, artificial intelligence, and data mining.
 
-I am collaborating with [Dr. Suhang Wang](https://faculty.ist.psu.edu/szw494/) to explore trustworthiness (specifically, robustness) of GraphRAG systems. I was a research assistant in the Human Language Technologies Lab led by [Dr. Shomir Wilson](https://shomir.net/). My research aimed to make privacy policies more approachable to the general public.
+I collaborated with [Dr. Suhang Wang](https://faculty.ist.psu.edu/szw494/) to explore trustworthiness (specifically, robustness) of GraphRAG systems. I was a research assistant in the Human Language Technologies Lab led by [Dr. Shomir Wilson](https://shomir.net/). My research aimed to make privacy policies more approachable to the general public.
 
 I received my M.S. in [Computer Science and Engineering](https://www.eecs.psu.edu/departments/EECS-Departments-Computer-Science-Engineering3.aspx) at Pennsylvania State University. I also received my B.S. (magna cum laude) in [Computer Science](https://www.eecs.psu.edu/students/undergraduate/Computer-Science.aspx) with a minor in [Psychology](https://psych.la.psu.edu/undergraduate/degrees-and-requirements/minor/) at Pennsylvania State University.
 
 ## News
+
+<b>July 2026:</b> Our paper *Asking for Privacy: Contrasting Consumer Questions with Questions in Privacy Policies* was accepted in Proceedings of the 2026 ACM Symposium on Document Engineering **(DocEng '26)**, August 25--28, 2026, Fribourg, Switzerland!
 
 <b>April 2025:</b> I attended **MASC-SLL** 2025 at Penn State and presented the work *Questioning Privacy: Contrasting User Questions with Questions Answered by Privacy Policies* in a poster session.
 
