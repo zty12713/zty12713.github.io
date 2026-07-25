@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 [Asking for Privacy: Contrasting Consumer Questions with Questions in Privacy Policies](https://drive.google.com/file/d/1jGAIKPB9foQDLkZNbpWOD3RdFQEHnj30/view?usp=drive_link)<br>
-<b>Tianyang Zhao</b><br>, Younes Karimi, Thomas Norton, Norman Sadeh, Kami Vaniea, Shomir Wilson
+<b>Tianyang Zhao</b>, Younes Karimi, Thomas Norton, Norman Sadeh, Kami Vaniea, Shomir Wilson<br>
 Proceedings of the 2026 ACM Symposium on Document Engineering (DocEng '26), August 25--28, 2026, Fribourg, Switzerland
 
 [Datasets, automation, and analysis methods](https://drops.dagstuhl.de/storage/04dagstuhl-reports/volume15/issue01/25021/DagRep.15.1.1/DagRep.15.1.1.pdf)<br>
