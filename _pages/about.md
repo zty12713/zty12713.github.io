@@ -10,11 +10,11 @@ redirect_from:
 
 {% include base_path %}
 
-I am an M.S. student in [College of Information Sciences and Technology](https://ist.psu.edu/) at Pennsylvania State University. I mostly participate in research related to natural language processing. Specifically, I have experience in RAG systems, question answering, machine translation, and dialogue state tracking. My other research interests include machine learning, artificial intelligence, and data mining.
+I received my M.S. in [Informatics](https://ist.psu.edu/degree-programs/graduate/m-s-informatics) and [Computer Science and Engineering](https://www.eecs.psu.edu/departments/EECS-Departments-Computer-Science-Engineering3.aspx) at Pennsylvania State University. I also received my B.S. (magna cum laude) in [Computer Science](https://www.eecs.psu.edu/students/undergraduate/Computer-Science.aspx) with a minor in [Psychology](https://psych.la.psu.edu/undergraduate/degrees-and-requirements/minor/) at Pennsylvania State University. I mostly participate in research related to natural language processing. Specifically, I have experience in RAG systems, question answering, machine translation, and dialogue state tracking. My other research interests include machine learning, artificial intelligence, and data mining.
 
-I collaborated with [Dr. Suhang Wang](https://faculty.ist.psu.edu/szw494/) to explore trustworthiness (specifically, robustness) of GraphRAG systems. I was a research assistant in the Human Language Technologies Lab led by [Dr. Shomir Wilson](https://shomir.net/). My research aimed to make privacy policies more approachable to the general public.
+I have been collaborating with [Dr. Funminiyi Olajide](https://ist.psu.edu/directory/fao5115) to explore the trustworthiness (specifically, robustness) of GraphRAG systems. I was a research assistant in the Human Language Technologies Lab led by [Dr. Shomir Wilson](https://shomir.net/). My research aimed to make privacy policies more approachable to the general public.
 
-I received my M.S. in [Computer Science and Engineering](https://www.eecs.psu.edu/departments/EECS-Departments-Computer-Science-Engineering3.aspx) at Pennsylvania State University. I also received my B.S. (magna cum laude) in [Computer Science](https://www.eecs.psu.edu/students/undergraduate/Computer-Science.aspx) with a minor in [Psychology](https://psych.la.psu.edu/undergraduate/degrees-and-requirements/minor/) at Pennsylvania State University.
+
 
 ## News
 
