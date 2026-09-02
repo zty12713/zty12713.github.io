@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tianyang Zhao"
 title_separator          : "-"
 name                     : &name "Tianyang Zhao"
-description              : &description "Informatics M.S. student at Penn State University, Computer Science and Engineering M.S. Graduate"
+description              : &description "M.S. Graduate in Informatics and Computer Science and Engineering at Penn State University"
 url                      : https://zty12713.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zty12713/zty12713.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tianyang Zhao"
   avatar           : "TianyangZhao-3.jpg"
-  bio              : "Informatics M.S. Student at Penn State University"
-  location         : "University Park, PA"
+  bio              : "M.S. Graduate in Informatics and Computer Science and Engineering at Penn State University"
+  location         : "State College, PA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=YNqDq1IAAAAJ"
-  email            : "tzz4@psu.edu"
+  email            : "zty12713@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
