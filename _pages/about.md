@@ -18,6 +18,8 @@ I have been collaborating with [Dr. Funminiyi Olajide](https://ist.psu.edu/direc
 
 ## News
 
+<b>September 2026:</b> Our paper *The Qualitative and Quantitative Effects of Edge Reversions on GraphRAG Medical QA Systems* was accepted at the 18th International Conference on Intelligent Human-Computer Interaction **(IHCI 2026)**, October 28-31, 2026, Ningbo, China!
+
 <b>July 2026:</b> Our paper *Asking for Privacy: Contrasting Consumer Questions with Questions in Privacy Policies* was accepted in Proceedings of the 2026 ACM Symposium on Document Engineering **(DocEng '26)**, August 25--28, 2026, Fribourg, Switzerland!
 
 <b>April 2025:</b> I attended **MASC-SLL** 2025 at Penn State and presented the work *Questioning Privacy: Contrasting User Questions with Questions Answered by Privacy Policies* in a poster session.
